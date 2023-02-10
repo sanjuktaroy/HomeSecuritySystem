@@ -5,8 +5,6 @@ activate and notify the user that something has been detected. The user can inte
 
 The Nucleo-L4R5ZI will be the microcontroller used to control this system and achieve the specified design constraints and specifications.
 
-Contributor List: 
-* **Miguel Bautista** (50298507)
 
 # Features
 * Ability to define an initial security code when first powered on
